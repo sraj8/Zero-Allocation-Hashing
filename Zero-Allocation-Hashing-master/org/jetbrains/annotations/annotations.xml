@@ -1,0 +1,5 @@
+<root>
+    <item name='org.jetbrains.annotations.NotNull'>
+        <annotation name='java.lang.Deprecated'/>
+    </item>
+</root>

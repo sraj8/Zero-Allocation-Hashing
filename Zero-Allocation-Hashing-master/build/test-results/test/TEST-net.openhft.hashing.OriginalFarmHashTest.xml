@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="net.openhft.hashing.OriginalFarmHashTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2017-09-12T05:30:46" hostname="PEPPER" time="0.334">
+  <properties/>
+  <testcase name="testUoGo" classname="net.openhft.hashing.OriginalFarmHashTest" time="0.257"/>
+  <testcase name="testNa" classname="net.openhft.hashing.OriginalFarmHashTest" time="0.046"/>
+  <testcase name="testUo" classname="net.openhft.hashing.OriginalFarmHashTest" time="0.03"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
